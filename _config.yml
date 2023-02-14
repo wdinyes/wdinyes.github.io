@@ -28,7 +28,7 @@ twitter_username: rhtwilld
 github_username:  wdinyes
 
 # Build settings
-theme: midnight
+theme: slate
 plugins:
   - jekyll-feed
 
