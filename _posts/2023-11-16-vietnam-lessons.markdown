@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tips For Vietnam (Next Time)"
-date:   2023-11-16 03:23:18 -0700
+date:   2023-11-16 03:24:18 -0700
 categories: general
 ---
 
@@ -64,3 +64,7 @@ We got ourselves on to a pair of pedalcabs in Saigon as well.  These are a neat 
 Please please please take the time to go to as many monasteries as you can. They are incredible to see and spiritually cleansing. I said a little prayer for my mother and father at one. It was an amazing experience. The two we went to both had huge Lady Buddha statues that are awe-inspiring in a way I didn’t think possible. 
 
 Most of all, though, get yourself a traveling companion who speaks Vietnamese fluently. It makes *everything* easier, from dealing with a cancelled flight to getting a little special treatment during group tours. 
+
+# Coming Home
+
+So, let's say you didn't decide to buy property there and just live the rest of your life in peace and happiness.  When you have to come home, get to the airport at least 3.5 to 4 hours before your flight.  Why? Because every other person flying out of Vietnam is bringing 5 to 6 literal boxes of stuff with them.  That all has to be checked in, piece by piece, and the process is not fast.  Then, of course, you have to have your passport checked again.  I have been to many countries, and have never experienced having my passport checked on the way out of the country, or maybe I have and it was just faster literally everywhere else.  There's also the usual security lines.  None of this counts if you're flying one of the better classes or have status, of course, those lines are always shorter and faster.  But if you're stuck in cattle class like I was, give yourself lots of time.  We arrived 2.5 hours early and barely had 10 minutes after security before our flight was called for boarding.  That was stressful, and not a good way to end a vacation.  Next time, we will do better!  And probably fly a better class.
