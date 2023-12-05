@@ -21,7 +21,7 @@ Her keyboard, though, turned out to be a problem.  Even with the smaller footpri
 
 OK! Now our setup is complete.  Almost.
 
-See, we don't want wires everywhere, we want a single power line running to the table.  I solved that with a [fantastic power strip] (https://www.amazon.com/gp/product/B0B1DFBXQ9/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1), which screwed easily on to the bottom of the table, providing a single long power line, and allowing the table to still be mobile.  If Mom got better and could sit up, we could roll it to her at her chair, or in her bed, or wherever.
+See, we don't want wires everywhere, we want a single power line running to the table.  I solved that with a [fantastic power strip](https://www.amazon.com/gp/product/B0B1DFBXQ9/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1), which screwed easily on to the bottom of the table, providing a single long power line, and allowing the table to still be mobile.  If Mom got better and could sit up, we could roll it to her at her chair, or in her bed, or wherever.
 
 Cable management on the computer itself was accomplished with a bunch of [Velcro cable ties](https://www.amazon.com/gp/product/B08TTPX4KB/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1), and the whole thing was strapped to the table with [tie down straps](https://www.amazon.com/gp/product/B07JRG7LJV/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1).  
 
