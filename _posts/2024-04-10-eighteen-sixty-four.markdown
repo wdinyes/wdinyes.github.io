@@ -24,3 +24,5 @@ Because that's the era that our laws should stem from regarding abortion.  Befor
 Slow.  Clap.
 
 Fuck Arizona.
+
+Enjoy reading up on what passed for law [here](https://azmemory.azlibrary.gov/nodes/view/38227).
