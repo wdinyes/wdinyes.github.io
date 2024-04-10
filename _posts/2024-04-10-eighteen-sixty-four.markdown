@@ -19,7 +19,7 @@ And anyway, it's clear that they'll take any old excuse, since there's this: "Al
 
 But hey, at least it was illegal to entice a "negro" to leave the state.  Why?  Because when this miracle of law was written, ***we hadn't abolished slavery in this country yet.*** 
 
-Right.  Because that's the era that our laws should stem from regarding abortion.  Before women were seen as anything other than chattel.  
+Because that's the era that our laws should stem from regarding abortion.  Before women were seen as anything other than chattel.  
 
 Slow.  Clap.
 
