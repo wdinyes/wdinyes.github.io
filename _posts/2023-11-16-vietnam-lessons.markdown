@@ -43,7 +43,7 @@ You’re packing too much. No. Really. You are. Here’s what you really really 
 
 The best food we found was at small road side places and night food markets. The big restaurants were ok (except in one notable case where the cleanliness was in question) but the small places were all much better tasting, and less expensive. I’m not saying don’t splurge, just be ready to maybe be a little disappointed. Well, except that any cuisine you care to mention is represented in Vietnam and usually done better than you've ever had.  We went to a straight up Mexican (Mexico City style) restaurant and it was easily the best Mexican I've had in a long time.
 
-Some of the best beverages we had were from roadside sellers.  They all do fresh juices.  Try sugar cane juice if you get the change, or green tea with kumquats.  And a sweet coffee on ice really does the trick in the morning.
+Some of the best beverages we had were from roadside sellers.  They all do fresh juices.  Try sugar cane juice if you get the chance, or green tea with kumquats.  And a sweet coffee on ice really does the trick in the morning.
 
 # Settle Your Bills
 
