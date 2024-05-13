@@ -26,3 +26,5 @@ Slow.  Clap.
 Fuck Arizona.
 
 Enjoy reading up on what passed for law [here](https://azmemory.azlibrary.gov/nodes/view/38227).
+
+*Edit, May 2024:* Well, they repealed (just - all but two R senators against - typical) this idiot law, leaving us with the only slightly less idiotic 15 week ban.  Here's hoping the amendment makes the ballot in November so we the people can shut this fucking nonsense down once and for all.  I mean, that is, if the Rs decide to respect the will of the people, which frankly is no longer a given.
