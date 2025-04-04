@@ -28,7 +28,7 @@ twitter_username: rhtwilld
 github_username:  wdinyes
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: hacker
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
