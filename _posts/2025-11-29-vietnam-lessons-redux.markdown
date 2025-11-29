@@ -25,7 +25,7 @@ When we checked in at SFO, I got quite the hassle because the name on my ticket 
 
 While this seems like an easy fix, it was not.  When we arrived in Vietnam, we took our little paper of admonishment up to the service counter.  Keep in mind, this is Vietnam Airline's hub.  Major hub too.  I was told to email their service department.
 
-OK, so, we get to the hotel (our favorite [Nesta](https://nestahotel.com.vn/en/hotel/nesta-sai-gon-central-hotel-1174), I break out my laptop, and send an email.  Basically stating that I needed my name changed on my outstanding tickets, and also needed my name changed on my LotusMiles account so this issue would not happen again.  This did result in interacting with two different support systems, and about half a dozen emails, plus a small fee to change my name on the tickets.
+OK, so, we get to the hotel (our favorite [Nesta](https://nestahotel.com.vn/en/hotel/nesta-sai-gon-central-hotel-1174)), I break out my laptop, and send an email.  Basically stating that I needed my name changed on my outstanding tickets, and also needed my name changed on my LotusMiles account so this issue would not happen again.  This did result in interacting with two different support systems, and about half a dozen emails, plus a small fee to change my name on the tickets.
 
 Now, you may be thinking, wait, can't you change your name on your account yourself?  I would have thought so, but no.  You have to work with Vietnam Airlines customer service.
 
@@ -43,7 +43,7 @@ Just email them.  And be patient.
 
 I don't have any particular recommendation here.  Since my wife is Vietnamese and fluent, she got a SIM at [Viettel](https://www.vietteltelecom.vn/vx/), a major carrier in Vietnam.  It was cheap, fast, and also got us a Vietnam phone number, which I will say came in handy.  So I guess that's the recommendation: get a local number.
 
-I am on T-Mobile, and while the data is still unlimited, they cap it at 256k or something after a bit.  This did cause some headaches, but I was able to hot-spot on to the wife's phone easily enough.
+I am on T-Mobile, and while the data is still unlimited, they cap the speed at 256k or something after a bit.  This did cause some headaches, but I was able to hot-spot on to the wife's phone easily enough.
 
 Longer term, I will be getting a legit phone number in Vietnam, and will probably try to retain my T-Mobile account as well.  It's just very handy for shorter international trips, but there are probably some other good options.
 
@@ -57,7 +57,7 @@ Google Maps also has more up to date details, street views, and so on.  I just t
 
 Shared favorites lists came in really handy for us, once we figured out how to use them properly.  And having the maps right on my dashboard was, as always, super helpful while driving these crazy streets.
 
-With limited bandwidth, though, using Google Maps in offline mode is a must.  That said, Google Maps is a bit of a bitch about it.  I would download offline maps for use, but if there's even a trickle of data available, Google Maps tries to suck it up to do even the most basic location searches.  Annoying.  So, I went into my cellular data settings and basically told my phone that Google Maps (and also Instagram) is no longer welcome to use my cellular data.  This forced Google Maps to behave properly.
+With limited bandwidth, though, using Google Maps in offline mode is a must.  That said, Google Maps is a bit of a bitch about it.  I would download offline maps for use, but if there's even a trickle of data available, Google Maps tries to suck it up to do even the most basic location searches (with, of course, tons of wasted bandwidth for ads and crap no one needs - I stand by my "[fuck Google forever](https://www.dinyes.co/general/2025/10/14/useless-google.html)" stance here).  Annoying.  So, I went into my cellular data settings and basically told my phone that Google Maps (and also Instagram) is no longer welcome to use my cellular data.  This forced Google Maps to behave properly.
 
 It also forced me to stay off Instagram unless I was around wi-fi, which is a good way to stay engaged in your surroundings.
 
@@ -89,7 +89,7 @@ Credit card transactions are instant, bank transfers take a couple days to clear
 
 If you don't have a US bank account because you're not in the US, may I suggest [Wise](https://wise.com)?  It works directly with Moreta Pay, gives you an ATM/debit card, works with Apple Pay and even earns you good interest on your deposit.  
 
-As to the ATM thing, I wouldn't use Wise except in an emergency, but I do plan on getting a [Capital One 360](https://www.capitalone.com/bank/checking-accounts/online-checking-account/) account.  No ATM fees anywhere ever.  Just what the bank itself charges.  And if you use my favorite MB Bank from my last post, you can do well with minimal costs.
+As to the ATM thing, I wouldn't use Wise except in an emergency, but I do plan on getting a [Capital One 360](https://www.capitalone.com/bank/checking-accounts/online-checking-account/) account.  No ATM fees anywhere ever.  Just what the bank itself charges.  And if you use my favorite MB Bank from [my last post](https://www.dinyes.co/general/2023/11/16/vietnam-lessons.html), you can do well with minimal costs.
 
 If you are a VPN user, beware!  It causes fintech headaches in most cases.  Also, we used an app called [Remitly](https://www.remitly.com/us/en) to do some transfers to Vietnam companies prior to our trip.  While it worked fine from US soil, we ran into some hassles while trying to use it in Vietnam (possibly also VPN related - but they also flag large transactions and force you to call them, which gets expensive).  Since most companies have a VietQR code, and Moreta Pay can load from your phone's photo albums, I suggest trying that before Remitly.  Jut have the company send you the QR code image and Moreta away.  The advantage of Remitly is instant funding from your credit card on demand.  Moreta Pay wants the money there before initiation of the transaction.
 
@@ -101,6 +101,6 @@ Long term, though, I will love living in Da Lat.  Once I find a Vietnamese langu
 
 # Random Musings
 
-We didn't do a lot of tours this time.  But we did one that I can't recommend highly enough: [Hanoi Backstreet Tours](https://hanoibackstreettours.com/tours/hanoi-jeep-tour/) does a half day tour that is simply amazing.  While the Train Street has now been closed (thanks mostly to idiot influencers nearly getting themselves killed - my only issue being "nearly" frankly), this is an epic tour capped off with delicious food.  A fantastic ride that I would love to take again.
+We didn't do a lot of tours this time.  But we did one that I can't recommend highly enough: [Hanoi Backstreet Tours](https://hanoibackstreettours.com/tours/hanoi-jeep-tour/) does a half day tour that is simply amazing.  While the Train Street has now been closed (thanks mostly to idiot influencers nearly getting themselves killed - pity 'twas only "nearly" frankly), this is an epic tour capped off with delicious food.  A fantastic ride that I would love to take again.
 
 Ho Chi Minh City has a metro now.  It's cheap and clean and popular and well maintained.  It doesn't go anywhere much right now, except [Suoi Tien Theme Park](https://english.suoitien.vn) on the outskirts of the city, but our favorite Nesta is mere steps from one terminus of the line.  Give it a ride!
