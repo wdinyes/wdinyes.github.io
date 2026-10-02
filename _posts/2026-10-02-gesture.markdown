@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oh, I've Got A Gesture For You, all right"
+title:  "Oh, I've Got A Gesture For You, All Right"
 date:   2026-10-02 03:24:18 -0700
 categories: general
 ---
