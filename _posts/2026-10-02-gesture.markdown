@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Oh, I've Got A Gesture For You, all right"
+date:   2026-10-02 03:24:18 -0700
+categories: general
+---
+
+With the latest upgrade to version 27 across the entire Apple line, a few of my devices have all fallen off the supported list at once.  My two Apple TV 4K boxes (no, I don't trust the TV builders to do streaming software correctly), my iPad Pro from 2018, and my Apple Watch 7.
+
+One of the nice things about upgrading the watch now is that I'm jumping a lot of incremental updates and getting 5 years of enhancements all at once.  One in particular seems very promising, but is also epically frustrating: gestures.
+
+It's a very cool concept: you turn your wrist up, and tap your index finger and thumb twice to answer calls, control music, or scroll through a Smart Stack.  Unfortunately, the one thing I really could use this for, it won't do.
+
+What I really want is for that double tap to open my garage.  Now, my garage is linked to Apple HomeKit, so I can open it from my watch, but I either have to tap the screen with my other hand, or I have to hope Siri can understand me.  Why might Siri be confused?  Have you tried activating Siri with a full face helmet on?  Yeah, I need this to open my garage while I'm riding my motorcycle.  Siri is hit or miss from behind my helmet (unless I open the face mask, again complicating something that could be simple), and using both hands is a no-go on a bike.  But twist hand, double tap, then tap again to open my garage?  That would be, frankly, heaven.
+
+So, please, Apple, get on it.  I might even forgive you removing ICEBlock if you do this.
+
+I mean, I won't.  But I might.
+
+Anyway, yes, I've tried all sorts of things.  Adding the exact device?  If you then do a single tap, it just opens the Home app, not the door.  Same with a specialized scene: shows up as "Arrive Home", tapping opens the Home app, not, in fact, the goddamn door.  What is the fucking point of that?  There isn't one. I'm sure it's some kind of security thing, but it's getting in the goddamn way of me opening my garage easily from my motorcycle with one hand.
+
+Maybe if I'm lucky, the Cardo Bluetooth units I'm planning on putting in all our helmets for Christmas will solve all this.
